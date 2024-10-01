@@ -1,0 +1,17 @@
+{
+  "name": "vana",
+  "version": "1.0.0",
+  "description": "vana miniapps",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wahdalo",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^6.0.0",
+    "node-fetch": "^3.3.2",
+    "readline-sync": "^1.4.10"
+  }
+}
