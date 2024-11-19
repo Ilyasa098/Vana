@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "wahdalo",
+  "author": "YX",
   "license": "ISC",
   "dependencies": {
     "delay": "^6.0.0",
